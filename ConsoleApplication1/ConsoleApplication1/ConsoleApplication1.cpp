@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//一定要先pull,再push
 	printf("hello");
 	return 0;
 }
