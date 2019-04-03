@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void passInt(View v) {
         int result=jni.add(4,5);
-        Toast.makeText(MainActivity.this,result+"",Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this,"答案是:"+result+"",Toast.LENGTH_SHORT).show();
     }
     public void passString(View v){
 
