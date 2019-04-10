@@ -154,3 +154,6 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/java/Ui_模拟四则运算/nbproject/private/
+/java/登陆注册案例/nbproject/private/
+/java/登陆注册案例/dist/

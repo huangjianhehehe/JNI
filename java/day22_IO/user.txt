@@ -1,0 +1,4 @@
+#Tue Apr 09 09:22:01 CST 2019
+zhangsan=30
+lisi=90
+wangwu=50
